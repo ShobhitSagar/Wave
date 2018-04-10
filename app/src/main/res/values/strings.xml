@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wave</string>
+    <string name="help">\'HELP\'</string>
+    <string name="done">DONE</string>
+    <string name="add_a_text_to_show_on_screen">Add a text to show on screen</string>
+    <string name="long_press_on_screen_to_add_a_text">Long Press on Screen to add a Text</string>
+</resources>
